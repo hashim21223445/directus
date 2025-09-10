@@ -98,7 +98,7 @@
 		"@types/cookie": "0.6.0",
 		"argon2": "0.40.3",
 		"async": "3.2.5",
-		"axios": "1.7.2",
+		"axios": "1.8.2",
 		"busboy": "1.6.0",
 		"bytes": "3.1.2",
 		"camelcase": "8.0.0",
@@ -167,7 +167,7 @@
 		"qs": "6.12.3",
 		"rate-limiter-flexible": "5.0.3",
 		"rollup": "4.17.2",
-		"samlify": "2.8.10",
+		"samlify": "2.10.0",
 		"sanitize-html": "2.13.0",
 		"sharp": "0.33.4",
 		"snappy": "7.2.2",
@@ -217,10 +217,10 @@
 		"@types/ws": "8.5.11",
 		"@vitest/coverage-v8": "1.5.3",
 		"copyfiles": "2.4.1",
-		"form-data": "4.0.0",
+		"form-data": "4.0.4",
 		"knex-mock-client": "2.0.1",
 		"typescript": "5.4.5",
-		"vitest": "1.5.3"
+		"vitest": "1.6.1"
 	},
 	"optionalDependencies": {
 		"@keyv/redis": "2.8.5",
