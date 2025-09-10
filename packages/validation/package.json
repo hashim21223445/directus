@@ -29,9 +29,9 @@
 		"@directus/tsconfig": "workspace:*",
 		"@directus/types": "workspace:*",
 		"@vitest/coverage-v8": "1.5.3",
-		"tsup": "8.2.2",
+		"tsup": "8.3.5",
 		"typescript": "5.4.5",
-		"vitest": "1.5.3"
+		"vitest": "1.6.1"
 	},
 	"dependencies": {
 		"@directus/errors": "workspace:*",

@@ -19,7 +19,7 @@
 		"@types/ws": "8.5.11",
 		"argon2": "0.40.3",
 		"autocannon": "7.15.0",
-		"axios": "1.7.2",
+		"axios": "1.8.2",
 		"get-port": "7.1.0",
 		"globby": "14.0.2",
 		"graphql-ws": "5.16.0",
@@ -33,7 +33,7 @@
 		"typescript": "5.4.5",
 		"uuid": "9.0.1",
 		"vite-tsconfig-paths": "4.3.2",
-		"vitest": "1.6.0",
+		"vitest": "1.6.1",
 		"ws": "8.18.0"
 	}
 }
