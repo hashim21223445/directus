@@ -133,7 +133,7 @@
 		"ip-matching": "2.1.2",
 		"isolated-vm": "4.7.2",
 		"joi": "17.13.3",
-		"js-yaml": "4.1.0",
+		"js-yaml": "4.1.1",
 		"js2xmlparser": "5.0.0",
 		"json2csv": "5.0.7",
 		"jsonwebtoken": "9.0.2",
