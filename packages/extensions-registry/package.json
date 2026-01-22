@@ -30,7 +30,7 @@
 		"@directus/extensions": "workspace:*",
 		"@directus/utils": "workspace:*",
 		"ky": "1.4.0",
-		"lodash-es": "4.17.21",
+		"lodash-es": "4.17.23",
 		"validate-npm-package-name": "5.0.1",
 		"zod": "3.23.8"
 	},
